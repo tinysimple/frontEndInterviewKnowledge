@@ -11,7 +11,7 @@
 ## JavaScript
   - <a href="#js1">解释型动态语言（单线程）</a>
   - <a href="#js2">数据类型</a>
-  - <a herf="#js3">作用域与作用域链</a>
+  - <a href="#js3">作用域与作用域链</a>
   - <a href="#js4">提升</a>
   - <a href="#js5">闭包</a>
 
